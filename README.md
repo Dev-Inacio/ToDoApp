@@ -14,11 +14,4 @@ Este é um aplicativo simples de lista de tarefas (ToDoApp), desenvolvido utiliz
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Dev-Inacio/ToDoApp.git
-   
-### 2. **Adicione e faça commit do arquivo**
-Depois de criar e editar o arquivo, salve e volte ao terminal:
-
-```bash
-git add README.md
-git commit -m "Adiciona README.md"
+   git clone https://github.com/Dev-Inacio/ToDoApp.git   
